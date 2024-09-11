@@ -4,7 +4,7 @@ Davyd Bokhvan 1TP
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Table Example</title>
+    <title>Davyd Bokhvan 1TP</title>
 </head>
 <body>
     <table border="1">
