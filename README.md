@@ -1,1 +1,31 @@
 Davyd Bokhvan 1TP
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Table Example</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Liczba Porzadkowa</th>
+            <th>Nazwa prjektu(link)</th>
+            <th>Miniaturka</th>
+            <th>Data</th>
+        </tr>
+        <tr>
+            <td>1.</td>
+            <td>Pierwsza strona</td>
+            <td>3.</td>
+            <th>4.</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <th>4</th>
+        </tr>
+    </table>
+</body>
+</html>
