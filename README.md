@@ -9,22 +9,17 @@ Davyd Bokhvan 1TP
 <body>
     <table border="1">
         <tr>
-            <th>Liczba Porzadkowa</th>
-            <th>Nazwa prjektu(link)</th>
-            <th>Miniaturka</th>
-            <th>Data</th>
+            <th>Elo</th>
+            <th colspan="2">Colspan</th>
         </tr>
         <tr>
+            <td rowspan = "2">rowspan</td>
             <td>1.</td>
-            <td>Pierwsza strona</td>
-            <td>3.</td>
-            <th>4.</th>
+            <td>3</td>
         </tr>
         <tr>
             <td>1</td>
             <td>2</td>
-            <td>3</td>
-            <th>4</th>
         </tr>
     </table>
 </body>
